@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32315429358",
+    "project_id": "plantsafe-41902",
+    "storage_bucket": "plantsafe-41902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32315429358:android:cc6eb639a48bd2e2a83eff",
+        "android_client_info": {
+          "package_name": "com.example.loginsignuprealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0Ayb8Hc1L3hHZHTsUU-d4aVKjk0efQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
